@@ -1,4 +1,4 @@
-# Translation-Using-Sequence-to-Sequence-Modelling
+# Transliteration-Using-Sequence-to-Sequence-Modelling
 
 Neural language models are able to successfully capture patterns across Indian names. This project extend upon that idea to learn conditional language models for the task of transliteration: converting Indian names in the English alphabet to Hindi.
 ```
